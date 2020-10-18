@@ -12,10 +12,10 @@ cd ampstack
 
 Make the file executable:
 ```shell
-sudo chmod 777 ampstack.sh
+sudo chmod 777 runme.sh
 ```
 
 Run the script:
 ```shell
-sudo ./ampstack.sh
+sudo ./runme.sh
 ```
